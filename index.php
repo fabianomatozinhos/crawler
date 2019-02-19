@@ -70,7 +70,7 @@ include 'crawler.php';
 					</div>
 
 					<div class="col-md-12 ">
-						<input name="" id="btn_enviar" type="button" class="btn btn-success" style="margin-top:10px;" value="BUSCAR" title="Buscar">
+						<input name="" id="btn_enviar" type="submit" class="btn btn-success" style="margin-top:10px;" value="BUSCAR" title="Buscar">
 					</div>
 				</div>
 
